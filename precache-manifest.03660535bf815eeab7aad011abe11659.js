@@ -9,15 +9,15 @@ self.__precacheManifest = [
   },
   {
     "revision": "af013a46f5033289af3a",
-    "url": "/Vkapp/static/js/runtime~main.af013a46.js"
+    "url": "/Vkapp/static/js/runtime~main.2a6fdc54.js"
   },
   {
     "revision": "392e5c7b12e4396a06141a9bcc85f52f",
     "url": "/Vkapp/static/media/48.png.392e5c7b.bmp"
   },
   {
-    "revision": "e5a9797b4d30d89a5305",
-    "url": "/Vkapp/static/js/2.e5a9797b.chunk.js"
+    "revision": "7c7fb36785a7b0e537ec",
+    "url": "/Vkapp/static/js/2.c17787fe.chunk.js"
   },
   {
     "revision": "10907c236fc2d6128a3bf6ba5b7a6fd0",
@@ -181,7 +181,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "c2dff23937c7d71fe22d",
-    "url": "/Vkapp/static/js/main.c2dff239.chunk.js"
+    "url": "/Vkapp/static/js/main.ac51e4f1.chunk.js"
   },
   {
     "revision": "cdeca6ed4a9333f7955116a9f51ec742",
@@ -356,11 +356,11 @@ self.__precacheManifest = [
     "url": "/Vkapp/static/media/47.png.a21b5a56.bmp"
   },
   {
-    "revision": "e5a9797b4d30d89a5305",
-    "url": "/Vkapp/static/css/2.54f2f5ec.chunk.css"
+    "revision": "7c7fb36785a7b0e537ec",
+    "url": "/Vkapp/static/css/2.ead94b25.chunk.css"
   },
   {
-    "revision": "e09cb57c68aec6e63d7545f088762337",
+    "revision": "dc05fb2c2b1c51321a0747eedab21ee7",
     "url": "/Vkapp/index.html"
   }
 ];
