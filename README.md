@@ -13,3 +13,4 @@ Go to created folder and run:
 "# vkappdeploy" 
 "# vkappdeploy"  
 "# vkappdeploy"  
+"# vkappdeploy" 
