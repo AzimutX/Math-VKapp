@@ -11,3 +11,4 @@ Go to created folder and run:
 "# AzimutX.github.io" 
 "# vkappdeploy" 
 "# vkappdeploy" 
+"# vkappdeploy"  
